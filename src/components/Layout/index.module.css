@@ -1,0 +1,43 @@
+.header{
+    background-color: #fff;
+    color: #487bd7;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #aaaaaa;
+    padding-bottom: 2px;
+}
+
+.leftHeader{
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    margin-right: 8px;
+    padding-top: 2px;
+}
+
+.title{
+    font-size: 20px;
+}
+
+.rightHeader{
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.sectionInner{
+    /* height: calc(100vh - 20px); */
+
+}
+
+.sectionContent{
+    padding:32px 32px 0 32px;
+
+}
+
+.content{
+    /* background-color: red; */
+}
